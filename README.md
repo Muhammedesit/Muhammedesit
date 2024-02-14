@@ -9,7 +9,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedesit&show_icons=true&locale=en&layout=compact" alt="muhammedesit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedesit&show_icons=true&locale=en" alt="muhammedesit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedesit&" alt="muhammedesit" /></p>
 
